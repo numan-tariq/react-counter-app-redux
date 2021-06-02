@@ -1,6 +1,6 @@
 # react-counter-app-redux
 
-React Counter App with Redux application is dedicated to Increment or Decrement the value.
+React Counter App with Redux is dedicated to Increment or Decrement the value.
 
 ![Screenshot of Application Frontend](https://i.ibb.co/G2T1Yfg/Screenshot-2021-06-01-at-6-26-38-PM.png)
 
